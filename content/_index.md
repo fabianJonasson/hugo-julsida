@@ -1,6 +1,7 @@
 +++
 title = 'Välkommen till julsidan!'
 description = 'Lämna tråkiga november och följ med in på den mest juliga sidan' 
+featured_image = 'images/banner.jpg'
 +++
 
 # GOD JUL ALLESAMMANS!
